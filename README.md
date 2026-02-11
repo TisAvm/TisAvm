@@ -10,6 +10,6 @@
 <div align="center"> <img src="https://streak-stats.demolab.com?user=TisAVm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> </div>
 <div align="center">
   
-![](https://github.com/TisAvm/TisAvm/blob/32619bd3284142b34f4639faaf4750fd5b098e1b/github-contribution-grid-snake-dark.svg)
+![](https://github.com/TisAvm/TisAvm/blob/output/github-contribution-grid-snake-dark.svg)
   
   </div>
