@@ -98,9 +98,9 @@ Modular engine for equity & derivatives strategy simulation.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TisAvm&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=TisAVm&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TisAvm&layout=compact&theme=radical&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TisAVm&layout=compact&theme=radical&hide_border=true" height="170"/>
 
 </div>
 
