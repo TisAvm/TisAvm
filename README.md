@@ -96,12 +96,7 @@ Modular engine for equity & derivatives strategy simulation.
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TisAVm&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TisAVm&layout=compact&theme=radical&hide_border=true" height="170"/>
-
+<div align="center"> <img src="https://streak-stats.demolab.com?user=TisAVm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> </div>
 </div>
 
 ---
